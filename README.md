@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivamstudios@gmail.com](mailto:shivamstudios@gmail.com)
-* 🚀  I'm currently working on [Satyam Film](http://satyamfilm.com)
+* 🚀  I'm currently working as Co-Founder & Technical Support Engineer at [Satyam Film](http://satyamfilm.com)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on interesting projects
 
